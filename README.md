@@ -3,10 +3,8 @@
 Project 1
 
 This repository consists of 8 files:
-
-4x Plots (.PNG)
-
-4x R Files (.R)
+ * 4x Plots (.PNG)
+ * 4x R Files (.R)
 
 
 The four r files correspond to the four plots.
